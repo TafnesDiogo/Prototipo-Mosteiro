@@ -2,13 +2,13 @@
  UNISAGRADO 2022 1º Semestre
  Projeto de Extensão - Desenvolvimento de Website  
 
- Orientador:  
-    Prof. Dr. Elvio Gilberto da Silva  
+ **Orientador:**  
+ [Prof. Dr. Elvio Gilberto da Silva](http://lattes.cnpq.br/7042836037834920)
 
- Líder:  
-    João Gabriel de Mello  
+ **Líder:**  
+João Gabriel de Mello  
 
- Equipe:  
+ **Equipe:**  
     Arthur Pires Galvão  
     Fabio Diogo Torres  
     Johnathan Frabetti  
